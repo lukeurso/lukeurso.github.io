@@ -12,6 +12,8 @@ Working in Google Earth Engine, I classify slush and ponded meltwater from Lands
 
 The thesis is supervised by Dr. Nina Kirchner and Dr. Abhay Prakash.
 
+📄 **[Read the full thesis (PDF)](/files/urso_luke_msc_thesis.pdf)**
+
 ## Code and tools
 
 All of the analysis code is open on GitHub:

@@ -13,6 +13,8 @@ Master's thesis
 ======
 Working in Google Earth Engine, I classify slush and ponded meltwater from Landsat 8 and 9 imagery with a Random Forest classifier adapted from Dell et al. (2022), and estimate lake volumes following Pope et al. (2016) and Moussavi et al. (2020). To get past the usual limits of optical monitoring, I built custom slope- and cloud-shadow masks that let me track surface water at roughly two-day intervals, fine enough to catch rapid lake drainage events as they happen. The result is a high-frequency, long-term record of meltwater area, elevation, volume, and drainage for both glaciers. The work is supervised by Dr. Nina Kirchner and Dr. Abhay Prakash.
 
+You can read the full thesis here: [Twelve Years of Slush and Supraglacial Lakes on Petermann and C.H. Ostenfeld Glaciers from Supervised Classification (PDF)](/files/urso_luke_msc_thesis.pdf).
+
 The code behind the thesis is open on GitHub at [MSc_ThesisScripts](https://github.com/lukeurso/MSc_ThesisScripts). It collects the Earth Engine and Python workflows used in the analysis, along with a public drainage-event viewer that shows before-and-after Landsat composites of individual drainage events (running it requires an Earth Engine account).
 
 Background
